@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\Mad Lips Game\Mad Lips Game\bin\Debug\Mad Lips Game.exe.config
+C:\Users\SNS970\Desktop\Mad Lips Game\Mad Lips Game\bin\Debug\Mad Lips Game.exe
+C:\Users\SNS970\Desktop\Mad Lips Game\Mad Lips Game\bin\Debug\Mad Lips Game.pdb
+C:\Users\SNS970\Desktop\Mad Lips Game\Mad Lips Game\obj\Debug\Mad Lips Game.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\Mad Lips Game\Mad Lips Game\obj\Debug\Mad Lips Game.exe
+C:\Users\SNS970\Desktop\Mad Lips Game\Mad Lips Game\obj\Debug\Mad Lips Game.pdb
