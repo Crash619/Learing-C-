@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\User Input\User Input\obj\Debug\User Input.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\User Input\User Input\bin\Debug\User Input.exe.config
+C:\Users\SNS970\Desktop\User Input\User Input\bin\Debug\User Input.exe
+C:\Users\SNS970\Desktop\User Input\User Input\bin\Debug\User Input.pdb
+C:\Users\SNS970\Desktop\User Input\User Input\obj\Debug\User Input.exe
+C:\Users\SNS970\Desktop\User Input\User Input\obj\Debug\User Input.pdb

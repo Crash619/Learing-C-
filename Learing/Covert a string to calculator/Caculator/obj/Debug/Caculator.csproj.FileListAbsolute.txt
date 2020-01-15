@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\Caculator\Caculator\bin\Debug\Caculator.exe.config
+C:\Users\SNS970\Desktop\Caculator\Caculator\bin\Debug\Caculator.exe
+C:\Users\SNS970\Desktop\Caculator\Caculator\bin\Debug\Caculator.pdb
+C:\Users\SNS970\Desktop\Caculator\Caculator\obj\Debug\Caculator.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\Caculator\Caculator\obj\Debug\Caculator.exe
+C:\Users\SNS970\Desktop\Caculator\Caculator\obj\Debug\Caculator.pdb

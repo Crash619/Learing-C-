@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\Girrafe\Girrafe\bin\Debug\Girrafe.exe.config
+C:\Users\SNS970\Desktop\Girrafe\Girrafe\bin\Debug\Girrafe.exe
+C:\Users\SNS970\Desktop\Girrafe\Girrafe\bin\Debug\Girrafe.pdb
+C:\Users\SNS970\Desktop\Girrafe\Girrafe\obj\Debug\Girrafe.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\Girrafe\Girrafe\obj\Debug\Girrafe.exe
+C:\Users\SNS970\Desktop\Girrafe\Girrafe\obj\Debug\Girrafe.pdb
