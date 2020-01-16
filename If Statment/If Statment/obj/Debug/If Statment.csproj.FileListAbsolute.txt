@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\If Statment\If Statment\obj\Debug\If Statment.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\If Statment\If Statment\bin\Debug\If Statment.exe.config
+C:\Users\SNS970\Desktop\If Statment\If Statment\bin\Debug\If Statment.exe
+C:\Users\SNS970\Desktop\If Statment\If Statment\bin\Debug\If Statment.pdb
+C:\Users\SNS970\Desktop\If Statment\If Statment\obj\Debug\If Statment.exe
+C:\Users\SNS970\Desktop\If Statment\If Statment\obj\Debug\If Statment.pdb

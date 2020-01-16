@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\Mthods\Mthods\bin\Debug\Mthods.exe.config
+C:\Users\SNS970\Desktop\Mthods\Mthods\bin\Debug\Mthods.exe
+C:\Users\SNS970\Desktop\Mthods\Mthods\bin\Debug\Mthods.pdb
+C:\Users\SNS970\Desktop\Mthods\Mthods\obj\Debug\Mthods.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\Mthods\Mthods\obj\Debug\Mthods.exe
+C:\Users\SNS970\Desktop\Mthods\Mthods\obj\Debug\Mthods.pdb
