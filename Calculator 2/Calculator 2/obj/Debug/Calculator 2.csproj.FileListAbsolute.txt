@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\Calculator 2\Calculator 2\obj\Debug\Calculator 2.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\Calculator 2\Calculator 2\bin\Debug\Calculator 2.exe.config
+C:\Users\SNS970\Desktop\Calculator 2\Calculator 2\bin\Debug\Calculator 2.exe
+C:\Users\SNS970\Desktop\Calculator 2\Calculator 2\bin\Debug\Calculator 2.pdb
+C:\Users\SNS970\Desktop\Calculator 2\Calculator 2\obj\Debug\Calculator 2.exe
+C:\Users\SNS970\Desktop\Calculator 2\Calculator 2\obj\Debug\Calculator 2.pdb
