@@ -1,0 +1,6 @@
+c:\users\sns970\documents\visual studio 2017\Projects\Swithc Statment\Swithc Statment\obj\Debug\Swithc Statment.csprojResolveAssemblyReference.cache
+c:\users\sns970\documents\visual studio 2017\Projects\Swithc Statment\Swithc Statment\bin\Debug\Swithc Statment.exe.config
+c:\users\sns970\documents\visual studio 2017\Projects\Swithc Statment\Swithc Statment\bin\Debug\Swithc Statment.exe
+c:\users\sns970\documents\visual studio 2017\Projects\Swithc Statment\Swithc Statment\bin\Debug\Swithc Statment.pdb
+c:\users\sns970\documents\visual studio 2017\Projects\Swithc Statment\Swithc Statment\obj\Debug\Swithc Statment.exe
+c:\users\sns970\documents\visual studio 2017\Projects\Swithc Statment\Swithc Statment\obj\Debug\Swithc Statment.pdb

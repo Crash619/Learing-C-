@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\For Loop\For Loop\obj\Debug\For Loop.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\For Loop\For Loop\bin\Debug\For Loop.exe.config
+C:\Users\SNS970\Desktop\For Loop\For Loop\bin\Debug\For Loop.exe
+C:\Users\SNS970\Desktop\For Loop\For Loop\bin\Debug\For Loop.pdb
+C:\Users\SNS970\Desktop\For Loop\For Loop\obj\Debug\For Loop.exe
+C:\Users\SNS970\Desktop\For Loop\For Loop\obj\Debug\For Loop.pdb

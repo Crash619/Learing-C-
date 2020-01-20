@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\Exponent method\Exponent method\obj\Debug\Exponent method.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\Exponent method\Exponent method\bin\Debug\Exponent method.exe.config
+C:\Users\SNS970\Desktop\Exponent method\Exponent method\bin\Debug\Exponent method.exe
+C:\Users\SNS970\Desktop\Exponent method\Exponent method\bin\Debug\Exponent method.pdb
+C:\Users\SNS970\Desktop\Exponent method\Exponent method\obj\Debug\Exponent method.exe
+C:\Users\SNS970\Desktop\Exponent method\Exponent method\obj\Debug\Exponent method.pdb

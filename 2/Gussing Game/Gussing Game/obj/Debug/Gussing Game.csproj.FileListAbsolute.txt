@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\Gussing Game\Gussing Game\bin\Debug\Gussing Game.exe.config
+C:\Users\SNS970\Desktop\Gussing Game\Gussing Game\bin\Debug\Gussing Game.exe
+C:\Users\SNS970\Desktop\Gussing Game\Gussing Game\bin\Debug\Gussing Game.pdb
+C:\Users\SNS970\Desktop\Gussing Game\Gussing Game\obj\Debug\Gussing Game.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\Gussing Game\Gussing Game\obj\Debug\Gussing Game.exe
+C:\Users\SNS970\Desktop\Gussing Game\Gussing Game\obj\Debug\Gussing Game.pdb

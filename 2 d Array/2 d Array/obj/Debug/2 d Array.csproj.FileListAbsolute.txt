@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\2 d Array\2 d Array\bin\Debug\2 d Array.exe.config
+C:\Users\SNS970\Desktop\2 d Array\2 d Array\bin\Debug\2 d Array.exe
+C:\Users\SNS970\Desktop\2 d Array\2 d Array\bin\Debug\2 d Array.pdb
+C:\Users\SNS970\Desktop\2 d Array\2 d Array\obj\Debug\2 d Array.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\2 d Array\2 d Array\obj\Debug\2 d Array.exe
+C:\Users\SNS970\Desktop\2 d Array\2 d Array\obj\Debug\2 d Array.pdb
