@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\Object method\Object method\bin\Debug\Object method.exe.config
+C:\Users\SNS970\Desktop\Object method\Object method\bin\Debug\Object method.exe
+C:\Users\SNS970\Desktop\Object method\Object method\bin\Debug\Object method.pdb
+C:\Users\SNS970\Desktop\Object method\Object method\obj\Debug\Object method.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\Object method\Object method\obj\Debug\Object method.exe
+C:\Users\SNS970\Desktop\Object method\Object method\obj\Debug\Object method.pdb

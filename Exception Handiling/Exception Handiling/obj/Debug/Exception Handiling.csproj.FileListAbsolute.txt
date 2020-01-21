@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\Exception Handiling\Exception Handiling\bin\Debug\Exception Handiling.exe.config
+C:\Users\SNS970\Desktop\Exception Handiling\Exception Handiling\bin\Debug\Exception Handiling.exe
+C:\Users\SNS970\Desktop\Exception Handiling\Exception Handiling\bin\Debug\Exception Handiling.pdb
+C:\Users\SNS970\Desktop\Exception Handiling\Exception Handiling\obj\Debug\Exception Handiling.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\Exception Handiling\Exception Handiling\obj\Debug\Exception Handiling.exe
+C:\Users\SNS970\Desktop\Exception Handiling\Exception Handiling\obj\Debug\Exception Handiling.pdb

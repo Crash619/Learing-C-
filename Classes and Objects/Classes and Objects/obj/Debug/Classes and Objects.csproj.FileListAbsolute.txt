@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\Classes and Objects\Classes and Objects\bin\Debug\Classes and Objects.exe.config
+C:\Users\SNS970\Desktop\Classes and Objects\Classes and Objects\bin\Debug\Classes and Objects.exe
+C:\Users\SNS970\Desktop\Classes and Objects\Classes and Objects\bin\Debug\Classes and Objects.pdb
+C:\Users\SNS970\Desktop\Classes and Objects\Classes and Objects\obj\Debug\Classes and Objects.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\Classes and Objects\Classes and Objects\obj\Debug\Classes and Objects.exe
+C:\Users\SNS970\Desktop\Classes and Objects\Classes and Objects\obj\Debug\Classes and Objects.pdb
