@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\static method and classes\static method and classes\bin\Debug\static method and classes.exe.config
+C:\Users\SNS970\Desktop\static method and classes\static method and classes\bin\Debug\static method and classes.exe
+C:\Users\SNS970\Desktop\static method and classes\static method and classes\bin\Debug\static method and classes.pdb
+C:\Users\SNS970\Desktop\static method and classes\static method and classes\obj\Debug\static method and classes.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\static method and classes\static method and classes\obj\Debug\static method and classes.exe
+C:\Users\SNS970\Desktop\static method and classes\static method and classes\obj\Debug\static method and classes.pdb

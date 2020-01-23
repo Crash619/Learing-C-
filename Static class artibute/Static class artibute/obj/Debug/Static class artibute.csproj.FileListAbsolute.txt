@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\Static class artibute\Static class artibute\obj\Debug\Static class artibute.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\Static class artibute\Static class artibute\bin\Debug\Static class artibute.exe.config
+C:\Users\SNS970\Desktop\Static class artibute\Static class artibute\bin\Debug\Static class artibute.exe
+C:\Users\SNS970\Desktop\Static class artibute\Static class artibute\bin\Debug\Static class artibute.pdb
+C:\Users\SNS970\Desktop\Static class artibute\Static class artibute\obj\Debug\Static class artibute.exe
+C:\Users\SNS970\Desktop\Static class artibute\Static class artibute\obj\Debug\Static class artibute.pdb

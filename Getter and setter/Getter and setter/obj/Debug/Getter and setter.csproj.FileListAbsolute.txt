@@ -1,0 +1,6 @@
+C:\Users\SNS970\Desktop\Getter and setter\Getter and setter\bin\Debug\Getter and setter.exe.config
+C:\Users\SNS970\Desktop\Getter and setter\Getter and setter\bin\Debug\Getter and setter.exe
+C:\Users\SNS970\Desktop\Getter and setter\Getter and setter\bin\Debug\Getter and setter.pdb
+C:\Users\SNS970\Desktop\Getter and setter\Getter and setter\obj\Debug\Getter and setter.csprojResolveAssemblyReference.cache
+C:\Users\SNS970\Desktop\Getter and setter\Getter and setter\obj\Debug\Getter and setter.exe
+C:\Users\SNS970\Desktop\Getter and setter\Getter and setter\obj\Debug\Getter and setter.pdb
